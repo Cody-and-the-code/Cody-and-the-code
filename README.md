@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cody-and-the-coder
+- 👋 Hi, I’m @Cody-and-the-code
 - 👀 I’m learning to manage dev in github
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on small projects
